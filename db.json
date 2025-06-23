@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "author": "felix",
+      "content": "This is my first blog post."
+    },
+    {
+      "id": "55d7",
+      "title": "gg",
+      "content": "jj",
+      "author": "fffj"
+    },
+    {
+      "id": "7b64",
+      "title": "written by who",
+      "content": "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+      "author": "john"
+    }
+  ]
+}

@@ -42,4 +42,15 @@ background-color: rgba(0, 128, 0, 0.514);
 #header{
     background-color: rgba(127, 255, 212, 0.555);
     font-size: 50px;
+    margin-bottom: 0;
+}
+#my-post{
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  background-color: black;
+  margin-top: 0;
+}
+#post-detail{
+
 }
