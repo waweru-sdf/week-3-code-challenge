@@ -8,6 +8,9 @@ Felix waweru.
 + Add a new blog
 + View an existing blog
 + Once a blog is clicked more info is seen
+  ### visit site at
+  [link here]{https://waweru-sdf.github.io/week-3-code-challenge/}
+  
 # HOW TO REACH THE WEB PAGE
 + git clone the SSH OR HTTP link
 + cd to the folder
