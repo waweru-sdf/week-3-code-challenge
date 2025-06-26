@@ -9,7 +9,7 @@ Felix waweru.
 + View an existing blog
 + Once a blog is clicked more info is seen
   ### visit site at
-  [link here]{https://waweru-sdf.github.io/week-3-code-challenge/}
+Your site is live at https://waweru-sdf.github.io/week-3-code-challenge/
   
 # HOW TO REACH THE WEB PAGE
 + git clone the SSH OR HTTP link
