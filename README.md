@@ -10,6 +10,8 @@ Felix waweru.
 + Once a blog is clicked more info is seen
   ### visit site at
 Your site is live at https://waweru-sdf.github.io/week-3-code-challenge/
+### BACK-END DEPLOYED SERVER LINK
+[linkhere](https://json-server-ri8v.onrender.com)
   
 # HOW TO REACH THE WEB PAGE
 + git clone the SSH OR HTTP link
