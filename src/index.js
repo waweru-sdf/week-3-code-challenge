@@ -1,3 +1,4 @@
+// const Base_url="https://json-server-ri8v.onrender.com";
 function main() {
   displayPosts();
   addNewPostListener();
@@ -6,7 +7,7 @@ function main() {
 document.addEventListener("DOMContentLoaded", main);
 
 function displayPosts() {
-  fetch("http://localhost:3000/posts")
+  fetch("https://json-server-ri8v.onrender.com/posts")
     .then((response) => response.json())
     .then((posts) => {
       const postList = document.getElementById("my-post");
@@ -29,7 +30,7 @@ function displayPosts() {
     });
 }
 function handlePostClick(postId) {
-  fetch(`http://localhost:3000/posts/${postId}`)
+  fetch(`https://json-server-ri8v.onrender.com/posts/${postId}`)
     .then((response) => response.json())
     .then((post) => {
       const postDetail = document.getElementById("post-detail");
@@ -77,7 +78,7 @@ function addNewPostListener() {
     };
 
     // Send the post to the server using POST
-    fetch("http://localhost:3000/posts", {
+    fetch("https://json-server-ri8v.onrender.com/posts", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
